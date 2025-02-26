@@ -4,7 +4,7 @@
 - I’m interested in **Front-End Development, Virtual Reality, Artificial Intelligence and Machine Learning.**
 
 ## Skills 🔥
-- Currently improving my skills in:
+Currently improving my skills in:
 - JavaScript
 -  React.js
 -  TypeScript
